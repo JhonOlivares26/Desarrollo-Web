@@ -31,7 +31,7 @@ console.log("triple igual: " , "45" === 45); //false (valor y tipo)
 
 console.log("-------------- concatenacion -----------------")
 console.log(nombre + " " + apellido)
-console.log(`${nombre} ${apellido}`)
+console.log(`${nombre} h ${apellido}`)
 
 console.log("-------------- operador terniario -----------------") 
 console.log("exp ? verdadero : falso")

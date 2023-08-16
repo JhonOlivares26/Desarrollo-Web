@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+
+h1{
+    color: blueviolet;
+}
+
+p{
+    color: blue;
+    font-size: large;
+}
+
+img{
+    width: 300px;
+}
+
+div{
+    background-color: aliceblue;
+}
+
